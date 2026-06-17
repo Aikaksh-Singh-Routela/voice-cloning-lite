@@ -19,6 +19,11 @@ A lightweight Text-to-Speech web app supporting **60+ languages**. Convert any t
 | ⚡ **Fast & Free** | Powered by Google's Text-to-Speech API |
 | 📱 **Responsive** | Works on desktop and mobile |
 
+🔗 Links
+Live Demo: voice-cloning-lite.streamlit.app
+
+GitHub: Aikaksh-Singh-Routela/voice-cloning-lite
+
 ## 🛠️ Tech Stack
 
 - **Frontend:** Streamlit
@@ -103,10 +108,5 @@ Aikaksh Singh Routela
 
 https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white
 https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white
-
-🔗 Links
-Live Demo: voice-cloning-lite.streamlit.app
-
-GitHub: Aikaksh-Singh-Routela/voice-cloning-lite
 
 ⭐ Star this repo if you found it useful!
