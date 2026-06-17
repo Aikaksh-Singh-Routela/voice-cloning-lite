@@ -23,7 +23,7 @@ A lightweight Text-to-Speech web app supporting **60+ languages**. Convert any t
 
 Live Demo: voice-cloning-lite.streamlit.app
 
-[GitHub](Aikaksh-Singh-Routela/voice-cloning-lite](https://github.com/Aikaksh-Singh-Routela/voice-cloning-lite)
+[GitHub](https://github.com/Aikaksh-Singh-Routela/voice-cloning-lite)
 
 ## 🛠️ Tech Stack
 
