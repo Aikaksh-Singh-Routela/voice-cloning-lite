@@ -1,5 +1,6 @@
 # 🎤 Voice Cloning Lite
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://voice-cloning-lite-bmdp9etvmtbuczggts8lkg.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![gTTS](https://img.shields.io/badge/TTS-gTTS-FF6B6B)](https://gtts.readthedocs.io/)
